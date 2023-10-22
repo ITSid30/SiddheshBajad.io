@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SiddheshBajad.io/static/css/main.682fc444.css",
+    "main.js": "/SiddheshBajad.io/static/js/main.52059b84.js",
+    "static/js/787.d3befce1.chunk.js": "/SiddheshBajad.io/static/js/787.d3befce1.chunk.js",
+    "static/media/cloud.jpg": "/SiddheshBajad.io/static/media/cloud.a3db32865bb0743fa49c.jpg",
+    "static/media/backgroung.jpg": "/SiddheshBajad.io/static/media/backgroung.075768e372bed2c42766.jpg",
+    "static/media/iot.jpg": "/SiddheshBajad.io/static/media/iot.bf0986501c76cba86d57.jpg",
+    "static/media/blockchain.jpg": "/SiddheshBajad.io/static/media/blockchain.5bf1806173e752cb3ed4.jpg",
+    "static/media/Siddhesh_Photo_1.png": "/SiddheshBajad.io/static/media/Siddhesh_Photo_1.6fb0649d1b713b67b523.png",
+    "static/media/mongodb1.png": "/SiddheshBajad.io/static/media/mongodb1.6170bacefd8a1f69ca74.png",
+    "static/media/atom.png": "/SiddheshBajad.io/static/media/atom.17e5cb984343d1346ebd.png",
+    "static/media/solidity1.png": "/SiddheshBajad.io/static/media/solidity1.5f9c5a2293b5bed49bc2.png",
+    "static/media/nodejs.png": "/SiddheshBajad.io/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/cplusplus.png": "/SiddheshBajad.io/static/media/cplusplus.24a8f93854ab092f17a7.png",
+    "static/media/python.png": "/SiddheshBajad.io/static/media/python.c2f539d50caa3745ce64.png",
+    "static/media/website.jpeg": "/SiddheshBajad.io/static/media/website.b89ea26a29ff63d1a2dc.jpeg",
+    "static/media/c.png": "/SiddheshBajad.io/static/media/c.bbc1426cc4cb9f59b43b.png",
+    "static/media/html-5.png": "/SiddheshBajad.io/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css-3.png": "/SiddheshBajad.io/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/SiddheshBajad.io/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/sql1.png": "/SiddheshBajad.io/static/media/sql1.716ccee06a2406fb4ec4.png",
+    "index.html": "/SiddheshBajad.io/index.html",
+    "main.682fc444.css.map": "/SiddheshBajad.io/static/css/main.682fc444.css.map",
+    "main.52059b84.js.map": "/SiddheshBajad.io/static/js/main.52059b84.js.map",
+    "787.d3befce1.chunk.js.map": "/SiddheshBajad.io/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682fc444.css",
+    "static/js/main.52059b84.js"
+  ]
+}
